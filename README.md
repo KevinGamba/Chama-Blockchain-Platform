@@ -1,4 +1,4 @@
-## Project Name: Chama Chain
+### Project Name: Chama Chain
 
 # Chama-Blockchain-Platform
 A decentralized financial platform for Chama groups, allowing members to contribute, track, and access their savings and loans securely.
